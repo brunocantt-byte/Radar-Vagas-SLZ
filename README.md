@@ -1,4 +1,6 @@
-<img src="assets/banner.png" alt="Radar Vagas SLZ" width="100%">
+<p align="center">
+  <img src="assets/banner.png.png" alt="Radar Vagas SLZ" width="100%">
+</p>
 <div align="center">
 
 # 📡 Radar Vagas SLZ
